@@ -65,7 +65,7 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    name = "Community Gudielines"
+    name = "Community Guidelines"
     url = "rules/"
     weight = 10
 
