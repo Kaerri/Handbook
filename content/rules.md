@@ -96,7 +96,7 @@ RpNation seeks to maintain an environment where users can expect to find a gener
 ## Self-Destructive Behavior
 Making threats or comments implying a desire to commit suicide or  self-harm are prohibited on RpNation. If you are feeling a desire to  commit suicide or self-harm, please contact The Staff via the  confidential [Staff Contact](https://www.rpnation.com/staffcontact/) forum where we can provide information, phone numbers, and links to suicide and self-harm resources.
 
-##Discussion of Account Suspensions or Warnings
+## Discussion of Account Suspensions or Warnings
 Discussing actions taken against any user accounts by The Staff publicly is prohibited. This includes discussing specifics of Community  Guidelines and the implementation of such. If you have a concern,  question, or appeal about a specific warning or suspension on your own  account, please use the confidential Staff Contact forum.
 
 ## Offensive Terms
